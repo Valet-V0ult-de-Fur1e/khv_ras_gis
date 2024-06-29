@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khv_ras_gis/static/css/main.80779740.css",
+    "main.js": "/khv_ras_gis/static/js/main.0bb06b21.js",
+    "index.html": "/khv_ras_gis/index.html",
+    "main.80779740.css.map": "/khv_ras_gis/static/css/main.80779740.css.map",
+    "main.0bb06b21.js.map": "/khv_ras_gis/static/js/main.0bb06b21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80779740.css",
+    "static/js/main.0bb06b21.js"
+  ]
+}
