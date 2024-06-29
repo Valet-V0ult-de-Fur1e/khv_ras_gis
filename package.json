@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Valet-V0ult-de-Fur1e.github.io/khv_ras_gis",
   "name": "react",
   "version": "0.0.0",
   "private": true,
@@ -26,6 +27,8 @@
     "react-select": "^5.8.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
